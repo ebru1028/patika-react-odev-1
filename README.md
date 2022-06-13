@@ -1,1 +1,1 @@
-# patika-react-odev-1
+https://app.patika.dev/ebrutezel
